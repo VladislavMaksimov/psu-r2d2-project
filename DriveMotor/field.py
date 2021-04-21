@@ -9,7 +9,7 @@ class Field(object):
 
     def __fill_row(self) -> list:
         row = []
-        row.extend(['-'] + ['.' for j in range(18)] + ['-'])
+        row.extend(['-'] + ['.' for j in range(self.__width - 2)] + ['-'])
         return row
 
     def __initialize(self) -> list:
