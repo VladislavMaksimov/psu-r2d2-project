@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DriveMotor", "DriveMotor.pyproj", "{5E32929A-BE39-4259-A5D0-88D366386EA6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AcousticSignaller", "..\AcousticSignaller\AcousticSignaller.pyproj", "{E97A6A73-BF84-4F77-8FCB-70A4A28C3349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E32929A-BE39-4259-A5D0-88D366386EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E32929A-BE39-4259-A5D0-88D366386EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97A6A73-BF84-4F77-8FCB-70A4A28C3349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97A6A73-BF84-4F77-8FCB-70A4A28C3349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08166429-1E8C-4E94-94BB-0F06BEF8169A}
+	EndGlobalSection
+EndGlobal
